@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Python developer with a focus on 
 - **Tools**: Git, PostgreSQL, SQLalchemy
 - **Other**: RESTful API development, Data Structures, Algorithms
 
-## 🚀 Current Projects
+## 🚀 Top Projects
 
 - **[Document-TF-IDF-Calculator-Site](https://github.com/SaidKamol0612/Document-TF-IDF-Calculator-Site)**: A Django project that calculates and analyzes TF-IDF (Term Frequency-Inverse Document Frequency) for text documents.
 - **[YouTube-Comment-Analyzer-Bot](https://github.com/SaidKamol0612/YouTube-Comment-Analyzer-Bot)**: This is a AI-powered Telegram bot searches for YouTube videos, analyzes the top 100 most popular comments.
