@@ -35,5 +35,6 @@ Feel free to reach out to me through any of the above platforms!
     </p>
   </a> 
 </details>
-
+<br>
+    
 - ⚡ Fun fact: This README file was generated in ChatGPT and moderated by me
