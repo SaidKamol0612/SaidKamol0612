@@ -25,4 +25,15 @@ Welcome to my GitHub profile! I'm a passionate Python developer with a focus on 
 
 Feel free to reach out to me through any of the above platforms!
 
+<details>
+  <summary><b><h2>Github Stats 📈 <h2></b></summary>
+  <a href="https://github.com/SaidKamol0612">
+    <p align="left">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaidKamol0612&theme=github_dark">
+      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaidKamol0612&theme=github_dark">
+      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaidKamol0612&theme=github_dark&utcOffset=5"><br>
+    </p>
+  </a> 
+</details>
+
 - ⚡ Fun fact: This README file was generated in ChatGPT and moderated by me
