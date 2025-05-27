@@ -1,18 +1,18 @@
 ## Hi there 👋
 # I'm Saidkamol 👋
 
-Welcome to my GitHub profile! I'm a passionate Python developer with a focus on creating innovative applications and working on exciting projects. Currently, I'm exploring various technologies like Django, REST APIs, and AI-powered chat-bots.
+Welcome to my GitHub profile! I'm a passionate Python developer with a focus on creating innovative applications and working on exciting projects. Currently, I'm exploring various technologies like FastAPI, REST APIs, and AI-powered chat-bots.
 
 ## 🛠️ Skills
 
-- **Languages**: Python, Java, SQL
+- **Languages**: Python, SQL
 - **Frameworks**: Django, DRF, Aiogram3, FastAPI
 - **Tools**: Git, PostgreSQL, SQLalchemy
 - **Other**: RESTful API development, Data Structures, Algorithms
 
 ## 🚀 Top Projects
 
-- **[Document-TF-IDF-Calculator-Site](https://github.com/SaidKamol0612/Document-TF-IDF-Calculator-Site)**: A Django project that calculates and analyzes TF-IDF (Term Frequency-Inverse Document Frequency) for text documents.
+- **[SkQL-Pseudo-DB](https://github.com/SaidKamol0612/SkQL-Pseudo-DB)**: A lightweight pseudo-database engine with a custom Uzbek DSL for SQL-like queries. Built with JSON storage and a simple ORM-like interface.
 - **[YouTube-Comment-Analyzer-Bot](https://github.com/SaidKamol0612/YouTube-Comment-Analyzer-Bot)**: This is a AI-powered Telegram bot searches for YouTube videos, analyzes the top 100 most popular comments.
 - **[Foreign-Lang-To-Other-API](https://github.com/SaidKamol0612/Foreign-Lang-To-Other-API)**: This project is based on the FastAPI API, which, by downloading audio from the YouTube URL, recognizes the transcription and transmits the translation into any language.
 
@@ -35,6 +35,3 @@ Feel free to reach out to me through any of the above platforms!
     </p>
   </a> 
 </details>
-<br>
-    
-- ⚡ Fun fact: This README file was generated in ChatGPT and moderated by me
