@@ -1,54 +1,59 @@
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi There
+<h1 align="center">
+  Welcome 👋
 </h1>
 
 ---
 
-I'm **Saidkamol Mirsaidov**, an aspiring developer on a journey to become an independent creator — both in tech and beyond.  
-Currently I'm building my skills in **Python**, **bot development**, and **web applications**, while creating meaningful side projects that reflect my interests and values.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Hello+There!;My+name+is+Saidkamol.;I+am+Software+Engineer.&center=true&width=380&height=45&color=yellow&vCenter=true&size=22" />
+</div>
 
 ---
 
-## 🔧 Tech Stack
-
-- 🐍 Python (FastAPI, Django, aiogram)
-- 🌐 HTML / CSS / JavaScript (basics)
-- ☁️ Git & GitHub
-- 🧪 SQLite, PostgreSQL (basic knowledge)
-- 🤖 Telegram Bots (automation & interaction)
+### I'm **Saidkamol Mirsaidov**,  
+...an aspiring developer on a journey to become an independent creator — in tech and beyond.  
+Currently focusing on **Python**, **web applications**, and **Telegram bot development** using modern tools like **FastAPI**, **Django**, and **Aiogram 3**.  
+I build side projects that reflect my curiosity, values, and love for clean, purposeful code.
 
 ---
 
-## 🚀 What's in my repositories?
+### ⚒️ Tech Stack
 
-- 📦 **Project templates** – ready-to-use starters for new ideas  
-- ⚙️ **Utilities** – small tools that make things easier  
-- 🤖 **Telegram bots** – automation, productivity, and fun  
-- 🌐 **APIs & Backends** – built with FastAPI or Django  
-- 🧪 **Learning projects** – practice and personal growth
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
+![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?style=for-the-badge&logo=telegram)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
----
-
-## 🎯 My goals
-
-- 🚀 Grow into a strong and independent developer  
-- 🌱 Launch and maintain meaningful personal projects  
-- 🧑‍🤝‍🧑 Build a community around creativity and code  
-- 🧘 Balance tech with other aspects of life
+<sub>Also familiar with: Java, C++, C#, HTML/CSS</sub>
 
 ---
 
-## 📫 Contact me
+### 📊 GitHub Overview
 
-- Telegram: [@Mirsaidov_SS](https://t.me/Mirsaidov_SS)
-- Email: mirsaidov.saidkamol.s@gmail.com
-- Boosty: [Саидкамол](https://boosty.to/kamolsaid)
-
----
-
-_Thanks for visiting my profile!_
+![Stats](https://github-readme-stats.vercel.app/api?username=SaidKamol0612&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=SaidKamol0612&theme=tokyonight)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaidKamol0612&show_icons=true&theme=tokyonight)
+### 📫 Contact me
 
+I'm open to collaboration, freelance opportunities, or just a friendly tech chat.  
+Feel free to reach out!
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mirsaidov_SS)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirsaidov.saidkamol.s@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saidkamol-mirsaidov)
+
+---
+
+### ☕ Support My Work
+
+[![Boosty](https://img.shields.io/badge/Support-Boosty-orange?style=for-the-badge&logo=data:image/svg+xml;base64,...)](https://boosty.to/kamolsaid)
+
+---
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
