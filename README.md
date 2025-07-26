@@ -12,7 +12,7 @@
 
 ### I'm **Saidkamol Mirsaidov**,  
 ...an aspiring developer on a journey to become an independent creator — in tech and beyond.  
-Currently focusing on **Python**, **web applications**, and **Telegram bot development** using modern tools like **FastAPI**, **Django**, and **Aiogram 3**.  
+Currently focusing on **Python**, **web applications**, and **Telegram bot development** using modern tools like **FastAPI**, **Django**, and **Aiogram**.  
 I build side projects that reflect my curiosity, values, and love for clean, purposeful code.
 
 ---
