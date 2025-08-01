@@ -35,7 +35,6 @@ I build side projects that reflect my curiosity, values, and love for clean, pur
 ### 📊 GitHub Overview
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=SaidKamol0612&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=SaidKamol0612&theme=tokyonight)
 
 ---
 
