@@ -35,19 +35,6 @@ an aspiring **Software Engineer** passionate about building purposeful, elegant,
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaidKamol0612&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidKamol0612&layout=compact&theme=dracula&hide_border=false" height="150" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaidKamol0612&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</p>
-
----
-
 ### 🤝 Let’s Connect
 
 I’m always open to:
