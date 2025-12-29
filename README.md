@@ -31,7 +31,7 @@ an aspiring **Software Engineer** passionate about building purposeful, elegant,
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-<sub>Also familiar with: Java, C++, C#, HTML, CSS</sub>
+<sub>Also familiar with: C, C++, C#, Java, HTML, CSS</sub>
 
 ---
 
