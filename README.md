@@ -50,12 +50,12 @@ I’m always open to:
 
 ---
 
-### ☕ Support My Work
+### 📈 Github Stats 
 
 <p align="center">
-  <a href="https://boosty.to/kamolsaid">
-    <img src="https://img.shields.io/badge/Support%20on-Boosty-orange?style=for-the-badge" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaidKamol0612&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaidKamol0612&theme=github_dark&utcOffset=5"><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaidKamol0612&theme=github_dark">
 </p>
 
 ---
