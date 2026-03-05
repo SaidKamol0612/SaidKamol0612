@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 About Me
+<h3 align="left">💡 About Me</h3>
 
 I'm **Saidkamol Mirsaidov**,  
 an aspiring **Software Engineer** passionate about building purposeful, elegant, and efficient digital products.
@@ -16,26 +16,29 @@ an aspiring **Software Engineer** passionate about building purposeful, elegant,
 - **Telegram bots** with Aiogram  
 - Writing clean, maintainable code that scales  
 
-💡 I enjoy exploring new technologies, automating everyday tasks, and turning creative ideas into working prototypes.
+🧠 I enjoy exploring new technologies, automating everyday tasks, and turning creative ideas into working prototypes.
 
 ---
 
-### ⚙️ Tech Stack
+<h3 align="left">🛠 Tech Stack</h3>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-<sub>Also familiar with: C, C++, C#, Java, HTML, CSS</sub>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,github" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=html,fastapi,django" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,redis" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,rust" />
+  </a>
+</p>
 
 ---
 
-### 🤝 Let’s Connect
+<h3 align="left">🤝 Let’s Connect</h3>
 
 I’m always open to:
 - 💬 interesting conversations  
@@ -49,8 +52,6 @@ I’m always open to:
 </p>
 
 ---
-
-### 📈 Github Stats 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaidKamol0612&theme=github_dark">
